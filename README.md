@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pseastham/Neural-ODEs/HEAD?filepath=neural_ode.ipynb)
 
-This repository contains code run during a Machine Learning Seminar seminar at Florida State University on Nov. 13, 2020.
+This repository contains code run during the Machine Learning Seminar talk "Neural ODEs" at Florida State University on Nov. 13, 2020.
 
 Click the 'binder' icon above to launch the jupyter notebook. Note that this takes about 20 minutes, because it has to compile a lot of julia code.
 
